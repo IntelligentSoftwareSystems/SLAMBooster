@@ -1,7 +1,8 @@
 # README #
 
-This README is specific for the artifact evaluation process of PACT19
-The LICENCE information need update
+This README is specific for the artifact evaluation process of PACT19.
+
+The LICENCE information need update.
 
 General information:
     Program: Slambench /home/odroid/Workspace/slambench
