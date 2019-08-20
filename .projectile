@@ -1,0 +1,16 @@
+-/build
+-GPATH
+-GRTAGS
+-GTAGS
+-.gitignore
+-.projectile
+-.project
+-.pydevproject
+-/src/*/__init__.py
+-/gui_doc
+-/TooN
+-/ypei-script
+-/kfusion/qt
+
++/kfusion
++/scripts

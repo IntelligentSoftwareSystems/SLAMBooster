@@ -1,0 +1,34 @@
+# compile files
+build/
+*.log
+.tags*
+*.so
+*.a
+# binaries
+kfusion/tests/dataset/
+scene/
+.ropeproject
+# eclipse files
+.cproject
+.project
+.settings/
+.clang-complete
+# living_room_*
+# livingRoom*.gt.freiburg
+.ycm_extra_conf.py
+#editor backups
+*~
+*.swp
+*.pdf
+
+TooN/
+OpenNI2dev/
+libfreenect/
+/GPATH
+/GRTAGS
+/GTAGS
+/TooN/
+/.dir-locals.el
+/.vscode/db*
+/.vscode/tags
+.vscode/c_cpp_properties.json
